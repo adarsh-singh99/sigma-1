@@ -1,2 +1,2 @@
 # sigma-1
-this is sigma
+this is sigma.
